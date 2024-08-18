@@ -23,4 +23,5 @@ Thresholding: Ensures only significant corners and edges are detected, filtering
 Vectorization: Leveraging numpy operations to perform comparisons and computations across the entire image efficiently.
 
 
-![Imagea](results/A.png)
+![Imagea](results/A.png) ![ImageB](results/B.png) ![ImageC](results/C.png) ![Image draw_edges](results/draw_edges.png) ![ImageEdges](results/edges.png) ![Imageidx](results/idx.png)
+![ImageIdy](results/idy.png) ![ImagePoint](results/points.png) ![ImageR](results/R.png)

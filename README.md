@@ -21,3 +21,6 @@ Key Concepts:
 Shifting: Used to create neighbor images for efficient, vectorized comparisons without loops.
 Thresholding: Ensures only significant corners and edges are detected, filtering out noise.
 Vectorization: Leveraging numpy operations to perform comparisons and computations across the entire image efficiently.
+
+
+![Imagea](results/A.png)

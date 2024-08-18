@@ -1,0 +1,14 @@
+[
+  "test/test.py::test_edges[img_masklength0]",
+  "test/test.py::test_edges[img_masklength1]",
+  "test/test.py::test_edges[img_masklength2]",
+  "test/test.py::test_edges_vectorization",
+  "test/test.py::test_harris[img_mean_dev0]",
+  "test/test.py::test_harris[img_mean_dev1]",
+  "test/test.py::test_harris[img_mean_dev2]",
+  "test/test.py::test_harris_vectorization",
+  "test/test.py::test_point_vectorization",
+  "test/test.py::test_points[img_pointcount0]",
+  "test/test.py::test_points[img_pointcount1]",
+  "test/test.py::test_points[img_pointcount2]"
+]
